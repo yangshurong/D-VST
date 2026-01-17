@@ -9,9 +9,9 @@
 ## 🤗 Model
 | Task    | Model |
 | -------- | -------- |
-| HE2IHC     | [🤗HE2IHC](https://huggingface.co/yangshurong/D-VST/blob/main) |
-| FFPE2HE    | [🤗FFPE2HE](https://huggingface.co/yangshurong/D-VST/blob/main) |
-| HE2mIHC    | [🤗HE2mIHC](https://huggingface.co/yangshurong/D-VST/blob/main) |
+| HE2IHC     | [🤗HE2IHC](https://huggingface.co/yangshurong/D-VST/tree/main) |
+| FFPE2HE    | [🤗FFPE2HE](https://huggingface.co/yangshurong/D-VST/tree/main) |
+| HE2mIHC    | [🤗HE2mIHC](https://huggingface.co/yangshurong/D-VST/tree/main) |
 
 ## Overview
 Diffusion-based virtual staining methods of histopathology images have demon strated outstanding potential for stain normalization and cross-dye staining (e.g., hematoxylin-eosin to immunohistochemistry). 
